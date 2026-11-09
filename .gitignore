@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+user_data/
+SpeakDaily_data/
+.pytest_cache/
+credentials.json
+token.json

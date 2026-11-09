@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+pillow>=10.0
+sounddevice>=0.4.6
+requests>=2.31
+google-auth>=2.20
+google-auth-oauthlib>=1.0
